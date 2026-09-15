@@ -15,3 +15,6 @@ This project analyzes the Mental Health in Tech Survey dataset.
 - Mental health interference with work
 - Employer mental health benefits
 - Willingness to discuss mental health with supervisors
+## Live App
+
+https://mental-health-tech-eda-hugwn7bopshhjvdwmxfmdf.streamlit.app/
